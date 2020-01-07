@@ -1,16 +1,46 @@
-body {
-    background: skyblue;
-    background: linear-gradient(white, skyblue);
-    color: darkgrey;
+body{
+	background-color: LightGray;
+	
+	
 }
 
-h3 {
-    color: darkslateblue;
+h1 {
+	color: rgb(0, 52, 80);
+	text-align:center;
 }
 
-figure {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+section {
+	font-size:146%;
+	background-color:LightGray;
+	color:rgb(0, 77, 71);
+	width: 1500px;
+
 }
+
+h2 {
+	
+	
+	border: 10px solid white;
+	padding: 10px;
+	margin: 25px;
+	text-align: center;
+	word-spacing: 40px;
+	border-color:white;
+	background-color:LightGray;
+	
+	
+	}
+	
+a:hover  {
+  	color:white;
+}	
+a:link  {
+  	text-decoration:none;
+}
+a:visited {
+  	color;blue;
+}
+a:active {
+  	color;blue;
+}
+	
