@@ -1,13 +1,13 @@
 body{
 
-	color: rgb(0, 52, 80);
+	color: black;
 	text-align:center;
 }
 
 section {
 	font-size:146%;
 	background-color:LightGray;
-	color:rgb(0, 77, 71);
+	color:black;
 	width: 1500px;
 
 }
